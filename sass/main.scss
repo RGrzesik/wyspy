@@ -327,7 +327,7 @@ body {
     }
 
     .header {
-        background-image: $blue-gradient, url('img/palma-3172367_1920.jpg');
+        background-image: $blue-gradient, url('../img/palma-3172367_1920.jpg');
 
         &__heading {
             font-size: 10rem;
@@ -364,7 +364,7 @@ body {
 
     .hero-img {
         padding: 40rem 2em;
-        background-image:$blue-gradient, url('/img/polynesia-3021072_1920.jpg');
+        background-image:$blue-gradient, url('../img/polynesia-3021072_1920.jpg');
     }
     &__title{
         font-size: 7.2rem;
