@@ -214,7 +214,7 @@ body {
 .hero-img {
     position: relative;
     padding: 10em 2em;
-    @include heroImages('/img/polynesia-3021072_640.jpg');
+    @include heroImages('../img/polynesia-3021072_640.jpg');
     text-align: center;
     overflow: hidden;
     color: $pure-white;
