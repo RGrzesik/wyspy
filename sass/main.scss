@@ -268,7 +268,7 @@ background-color: $dark;
             transition: transform 1s, opacity 1s;
 
             &--first {
-                background-image: $light-blue-gradient, url('../img/boat-166738_640.jpg');
+                background-image: $light-blue-gradient, url('img/boat-166738_640.jpg');
             }
 
             &--second {
@@ -820,7 +820,7 @@ hr{
 
     .hero-img {
         padding: 40rem 2em;
-        background-image: $blue-gradient, url('./img/polynesia-3021072_1920.jpg');
+        background-image: $blue-gradient, url('../img/polynesia-3021072_1920.jpg');
     }
 
     &__title {
