@@ -17,7 +17,7 @@
     }
 
     &-right {
-        top:0px;
+        top: 0px;
         right: -50px;
         transform: skew(45deg);
     }
@@ -77,6 +77,7 @@
     }
 
 }
+
 @media(min-width:992px) {
     .section-heading {
         font-size: 4.8rem;
